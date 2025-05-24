@@ -1,0 +1,78 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  font-family: inherit;
+}
+
+img {
+  display: block;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  width: 1150px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+/* #region Header */
+
+.header .container {
+  display: flex;
+}
+.page-header {
+}
+
+.header-container {
+}
+.header-nav {
+}
+.logo {
+}
+.header-logo {
+}
+.logo-img {
+}
+.logo-header {
+}
+.nav-list {
+}
+.nav-item {
+}
+.nav-link {
+}
+.button-sign-in-up-list {
+}
+.button-sign-in-up-item {
+}
+.sign-in-button {
+}
+.sign-up-button {
+}
+
+/* #endregion Header */
