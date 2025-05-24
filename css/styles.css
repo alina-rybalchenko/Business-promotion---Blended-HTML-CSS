@@ -53,8 +53,13 @@ body {
 }
 
 .header-container {
+  display: flex;
+  align-items: center;
 }
+
 .header-nav {
+  display: flex;
+  gap: 237px;
 }
 
 .header-logo {
